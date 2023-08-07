@@ -1,4 +1,4 @@
-## 复刻仓库被复刻了  有人问  报错的话请说明到[此仓库](https://github.com/fgr178707/aliyunpan-automation/issues/new/choose)提交Issues ##
+##  ##
 
 # 说明:
 
@@ -16,14 +16,14 @@
 
 目前只支持 VX pushplus
 
-如需要其他渠道请提交提交Issues
 
-只要配置好了的话，会在每天的凌晨1:30自动签到
+
+只要配置好了的话，会在每天的凌晨6:00自动签到
 
 不存在漏签 除非你配置错误 错误的话，他也会向你绑定的github邮箱发送邮件
 
-# 设置方法 查看[wiki](https://github.com/fgr178707/aliyunpan-automation/wiki)
+# 设置方法 查看[使用 GitHub Actions 实现阿里云盘自动签到](https://imyrs.pages.dev/posts/2023/auto-signin-aliyundrive-by-using-github-action/)
 
-**声明:本脚本并非原创 是在别人的基础上进行修改 如侵权请提交 Issues 证明您代码是全网首发**
+**声明:本脚本并非原创 是在别人的基础上进行修改**
 
-**并附带 截图 仓库链接 发布日期 作者名称 可以证明这个账号是你的 提交Issues**
+****
